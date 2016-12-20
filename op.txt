@@ -1,0 +1,2 @@
+reached before train0_scl_train_classif.txt.model
+Reached the start of trainFinished printing classesReached before conditionsFound solverRead levels fileUpdated values mallocated
